@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:philipp.kreyenmeier@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/phikrey"}
-  - {title: Google Scholar, icon: icons8-google-scholar-50.png, url: "https://scholar.google.com/citations?user=7UYwkkEAAAAJ&hl=de"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=7UYwkkEAAAAJ&hl=de"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
