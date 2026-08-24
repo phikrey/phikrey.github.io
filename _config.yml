@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "Bla", sidebaricon: home}
-  - {file: "README.md", title: "Bla 2", sidebaricon: address-card}
+  - {file: "PhilippKreyenmeier_CV_publ.pdf", title: "CV", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:philipp.kreyenmeier@gmail.com"}
