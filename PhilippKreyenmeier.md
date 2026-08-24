@@ -5,7 +5,7 @@ Cognition\
 National Institute of Mental Health, National Institutes of Health,
 Bethesda MD, United States
 
-***<u>Education: \_\_\_\_\_\_\_\_\_\_</u>***
+***<u>Education: </u>***
 
 2018-2024 Graduate Program in Neuroscience, University of British
 Columbia, Vancouver, Canada (supervisor: Prof. Dr. Miriam Spering)\
@@ -27,7 +27,7 @@ visual cortex: an fMRI study*
 **BSc in Psychology\**
 Thesis: *How visual contexts affect eye and hand movements*
 
-***<u>Work Experience: \_\_\_\_\_\_\_\_\_\_\_\_\_</u>***
+***<u>Work Experience: </u>***
 
 2024-Present **Postdoctoral Visiting Fellow, Laboratory of Brain &
 Cognition, NIH, Bethesda, MD\
@@ -154,8 +154,7 @@ Neurophysiology, 131(6),* 1112-114 \[Invited commentary\]
 of sensorimotor integration*. University of British Columbia. \[PhD
 Thesis\].
 
-***<u>Conference Proceedings (first-author only):
-\_\_\_\_\_\_\_\_</u>***
+***<u>Conference Proceedings (first-author only):</u>***
 
 2026 Poster at the annual meeting of the Vision Sciences Society, St.
 Pete’s Beach, FL, USA\
