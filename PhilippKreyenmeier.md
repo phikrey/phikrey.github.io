@@ -9,7 +9,7 @@ Bethesda MD, United States
 
 2018-2024 Graduate Program in Neuroscience, University of British
 Columbia, Vancouver, Canada (supervisor: Prof. Dr. Miriam Spering)\
-**PhD in Neuroscience\**
+**PhD in Neuroscience**\
 Dissertation: *Eye movements as a continuous indicator of sensorimotor
 integration.*
 
@@ -24,7 +24,7 @@ Thesis: *Does the winner take all? Processing of hybrid images in early
 visual cortex: an fMRI study*
 
 2012-2015 Ludwig Maximilian University (LMU), Munich, Germany\
-**BSc in Psychology\**
+**BSc in Psychology**\
 Thesis: *How visual contexts affect eye and hand movements*
 
 ***<u>Work Experience: </u>***
@@ -34,23 +34,21 @@ Cognition, NIH, Bethesda, MD\
 (Dr. Elisha P. Merriam)**
 
 2018 **Graduate student at the Dpt. of Psychology, LMU Munich (Dr.
-Heiner Deubel)\**
+Heiner Deubel)**\
 Together with Dr. Deubel and senior PhD student Nina M. Hanning, I
-worked on a project\
-investigating the allocation of attention during preparation of
-movements using multiple\
-effectors. To this end, we used eye tracking and classical
+worked on a project investigating the allocation of attention during preparation of
+movements using multiple effectors. To this end, we used eye tracking and classical
 psychophysics.
 
 2017 **Visiting research student, Western University, London, Canada
-(Dr. Brian Corneil)\**
+(Dr. Brian Corneil)**\
 From June - September 2017, I worked with Dr. Corneil investigating
 effects of different spatial frequency targets on stimulus-locked
 responses in the human upper limb muscles during mid-flight corrections
 of reaching movements using electromyography (EMG).
 
 2016-2017 **Graduate student, University of Glasgow, UK (Dr. Lars
-Muckli)\**
+Muckli)**\
 For my master’s research project, I worked on a project investigating
 processing of high and low spatial frequency scene images in early
 visual cortex using functional magnetic resonance imaging (fMRI) and
@@ -62,7 +60,7 @@ In this position I helped conducting studies combining recording of the
 electroencephalogram (EEG) with transcranial magnetic stimulation (TMS).
 
 2015 & 2016 **Visiting research student, UBC, Vancouver, Canada (Dr.
-Miriam Spering)\**
+Miriam Spering)**\
 During two research stays (March-June 2015 and February-March 2016) I
 conducted a study investigating the effects of different visual contexts
 on smooth pursuit eye movements and manual interception using eye and
