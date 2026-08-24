@@ -1,3 +1,10 @@
+---
+title: "CV"
+permalink: "/CV/"
+layout: page
+---
+
+
 ***<u>Affiliation:</u>***
 
 Computational Neuroimaging and Perception Team, Laboratory of Brain &
