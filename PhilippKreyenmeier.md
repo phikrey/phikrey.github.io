@@ -156,7 +156,8 @@ Holyoke, MA, USA\
 2024    Poster at the Canadian Action & Perception Network Symposium,
 Edmonton, Canada\
 2024    Poster at the annual meeting of the Vision Sciences Society, St.
-Pete’s Beach, FL, USA 2023 Talk at Gordon Research Seminar on Eye
+Pete’s Beach, FL, USA\
+2023 Talk at Gordon Research Seminar on Eye
 Movements, Mount Holyoke, MA, USA\
 2023    Poster at Gordon Research Conference on Eye Movements, Mount
 Holyoke, MA, USA\
