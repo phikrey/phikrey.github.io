@@ -8,7 +8,7 @@ layout: page
 ***<u>Education: </u>***
 
 2018-2024 Graduate Program in Neuroscience, University of British
-Columbia, Vancouver, Canada (supervisor: Prof. Dr. Miriam Spering)\
+Columbia, Vancouver, Canada\
 **PhD in Neuroscience**\
 Dissertation: *Eye movements as a continuous indicator of sensorimotor
 integration.*
@@ -71,24 +71,20 @@ hand tracking methods.
 Since 2024 Intramural Research Fellowship, NIH Bethesda, MD, USA\
 2025       Chan and Peggy Gunn Doctoral Neuroscience Graduate Prize\
 2018-2023  International Tuition Award, UBC Vancouver\
-2020-2023  UBC President's Academic Excellence Initiative PhD Award, UBC
-Vancouver\
-2022       Margaret L. Adamson Award, Ophthalmology & Visual Sciences, UBC
-Vancouver\
+2020-2023  UBC President's Academic Excellence Initiative PhD Award, UBC Vancouver\
+2022       Margaret L. Adamson Award, Ophthalmology & Visual Sciences, UBC Vancouver\
 2022       ICICS Travel Fund, ICICS, UBC Vancouver\
 2022       Graduate Program in Neuroscience Travel Fund, UBC Vancouver\
 2022       DMCBH General Endowment Award, UBC Vancouver\
 2022       CVS Symposium Travel Fellowship, Rochester University\
 2018-2022  International Doctoral Fellowship, UBC Vancouver\
-2018-2022  International Doctoral Fellowship Tuition Award, UBC
-Vancouver\
-2020       Best Presentation Award, Ophthalmology & Visual Science Research
-Day, UBC Vancouver\
+2018-2022  International Doctoral Fellowship Tuition Award, UBC Vancouver\
+2020       Best Presentation Award, Ophthalmology & Visual Science Research Day, UBC Vancouver\
 2019       Graduate and Postdoctoral Studies Travel Fund, UBC Vancouver\
 2018-2019  Faculty of Medicine Graduate Award, UBC Vancouver\
 2018 LMU   Forscherpreis (LMU Student Research Award), LMU Munich\
 2012-2018  German Academic Scholarship Foundation (Studienstiftung des
-deutschen Volkes)\
+deutschen Volkes)
 
 ***<u>Peer-reviewed Articles:</u>***
 
