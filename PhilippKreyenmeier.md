@@ -212,16 +212,13 @@ Program)\
 (Neuroscience Trainee Association, Graduate Program in Neuroscience, UBC
 Vancouver)\
 2021-2022    Member of the DMCBH Equity, Diversity, & Inclusion (EDI)
-Committee\
+Committee
 
 ***<u>Reviewing:</u>***
 
-Journal of Vision (4; 1 "exceptionally good review"); Journal of
-Neurophysiology (2); Experimental Brain Research (1); Journal of
-Neuroscience Methods (1); Scientific Reports (2); Psychological Science
-(1); eLife (1); Perception (1); PLoS One (1); Journal of Experimental
-Psychology: Human Perception and Performance (1); National Science
-Foundation (NSF)
+Journal of Vision; Journal of Neurophysiology; Experimental Brain Research; Journal of
+Neuroscience Methods; Scientific Reports; Psychological Science; eLife; Perception; PLoS One; Journal of Experimental
+Psychology: Human Perception and Performance; National Science Foundation (NSF)
 
 ***<u>Supervision/Mentorship:</u>***
 
@@ -233,11 +230,9 @@ Jessica Chalissery (MSc student 2023-2024)
 
 ***<u>Summer Schools/Workshops</u>***
 
-2025       Cold Spring Harbor Vision Summer School, Cold Spring Harbor, NY,
-USA\
-2024-2025  AFNI Bootcamp (Virtual), NIH\
+2025       Cold Spring Harbor Vision Summer School, Cold Spring Harbor, NY, USA\
+2024       AFNI Bootcamp (Virtual), NIH\
 2022       Instructional Skills Workshop (ISW), UBC Vancouver\
-2020       "Neuromatch Academy" (virtual Computational Neuroscience Summer
-School)\
+2020       "Neuromatch Academy" (virtual Computational Neuroscience Summer School)\
 2019       "KINARM Camp", BKin Technology, Kingston ON, Canada\
 2018       "Visual Search and Selective Attention" symposium, Munich, Germany
