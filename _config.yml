@@ -20,6 +20,8 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "About Me", sidebaricon: home}
   - {file: "cv_redirect.html", title: "CV", sidebaricon: address-card}
+  - {file: "achive.html", title: "Research", sidebaricon: address-card}
+  - {file: "achive.html", title: "Publications", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:philipp.kreyenmeier@gmail.com"}
