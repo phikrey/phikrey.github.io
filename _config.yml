@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me", sidebaricon: home}
   - {file: "cv_redirect.html", title: "CV", sidebaricon: address-card}
   - {file: "404.html", title: "Research", sidebaricon: address-card}
-  - {file: "404.html", title: "Publications", sidebaricon: address-card}
+  - {file: "Publications.md", title: "Publications", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:philipp.kreyenmeier@gmail.com"}
