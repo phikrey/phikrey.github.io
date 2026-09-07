@@ -19,9 +19,10 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "Bla", sidebaricon: home}
-  - {file: "PhilippCV.md", title: "CV123", sidebaricon: address-card}
+  - {file: "PhilippKreyenmeierOLD.md", title: "CV111", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
+  - {title: "CV", icon: address-card, url: "/assets/PhilippKreyenmeier_CV_publ.pdf"}
   - {title: Mail, icon: envelope, url: "mailto:philipp.kreyenmeier@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/phikrey"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=7UYwkkEAAAAJ&hl=de"}
