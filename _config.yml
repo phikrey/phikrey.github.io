@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "Bla", sidebaricon: home}
-  - {file: "PhilippKreyenmeierOLD.md", title: "CV111", sidebaricon: address-card}
+  - {file: "cv_redirect.html", title: "CV", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", icon: address-card, url: "/assets/PhilippKreyenmeier_CV_publ.pdf"}
