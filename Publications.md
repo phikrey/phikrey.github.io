@@ -1,4 +1,4 @@
-***<u>Peer-reviewed Articles:</u>***
+**<u>Peer-reviewed Articles:</u>**
 
 Akande A.A., <u>Kreyenmeier P.\*,</u> & Spering M.\* (2025). Visual
 factors that determine sensory uncertainty for the control of rapid
@@ -47,9 +47,10 @@ frequencies. *eNeuro, 6*(5), 1-17.
 
 <u>Kreyenmeier P.,</u> Fooken J., & Spering M. (2017). Context effects
 on smooth pursuit and manual interception of a disappearing target.
-*Journal of Neurophysiology, 118,* 404-415.
+*Journal of Neurophysiology, 118,* 404-415.\
+\
 
-***<u>Other publications:</u>***
+**<u>Other publications:</u>**
 
 <u>Kreyenmeier P.</u> & Spering M. (2024). A unifying framework for
 studying discrete and continuous human movements. *Journal of
