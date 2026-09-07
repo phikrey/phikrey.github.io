@@ -47,7 +47,7 @@ frequencies. *eNeuro, 6*(5), 1-17.
 
 <u>Kreyenmeier P.,</u> Fooken J., & Spering M. (2017). Context effects
 on smooth pursuit and manual interception of a disappearing target.
-*Journal of Neurophysiology, 118,* 404-415.\
+*Journal of Neurophysiology, 118,* 404-415.
 
 
 **<u>Other publications:</u>**
