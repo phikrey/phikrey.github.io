@@ -3,7 +3,7 @@
 Akande A.A., <u>Kreyenmeier P.*,</u> & Spering M.\* (2025). Visual
 factors that determine sensory uncertainty for the control of rapid
 manual interceptive movements. *Journal of Vision, 25*(4), 8.\
-[\* shared first authorship\]
+[\* shared senior authorship\]
 
 Lapsansky A.B., <u>Kreyenmeier P.,</u> Spering M., Wylie D., & Altshuler
 D.L. (2025). Hummingbirds use compensatory eye movements to stabilize
