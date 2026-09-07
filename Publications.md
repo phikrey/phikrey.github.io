@@ -1,6 +1,6 @@
 **<u>Peer-reviewed Articles:</u>**
 
-Akande A.A., <u>Kreyenmeier P.\*,</u> & Spering M.\* (2025). Visual
+Akande A.A., <u>Kreyenmeier P.*,</u> & Spering M.\* (2025). Visual
 factors that determine sensory uncertainty for the control of rapid
 manual interceptive movements. *Journal of Vision, 25*(4), 8.\
 [\* shared first authorship\]
@@ -32,7 +32,7 @@ Conci M., <u>Kreyenmeier P.,</u> Kröll L., Spiech C., & Müller H.J.
 visual working memory for color-shape conjunctions. *Psychonomic
 Bulletin & Review, 28*, 1382-1990.
 
-Fooken J.\*, <u>Kreyenmeier P.\*,</u> & Spering M. (2021). The role of
+Fooken J.\*, <u>Kreyenmeier P.*,</u> & Spering M. (2021). The role of
 eye movements in manual interception: a mini-review. *Vision Research, 183*, 81-90.\
 [\* shared first authorship\]
 
