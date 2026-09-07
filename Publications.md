@@ -2,8 +2,8 @@
 
 Akande A.A., <u>Kreyenmeier P.\*,</u> & Spering M.\* (2025). Visual
 factors that determine sensory uncertainty for the control of rapid
-manual interceptive movements. *Journal of Vision, 25*(4), 8.
-\[\* shared senior authorship\]
+manual interceptive movements. *Journal of Vision, 25*(4), 8.\
+[\* shared first authorship\]
 
 Lapsansky A.B., <u>Kreyenmeier P.,</u> Spering M., Wylie D., & Altshuler
 D.L. (2025). Hummingbirds use compensatory eye movements to stabilize
@@ -24,7 +24,8 @@ actions. *eNeuro, 10*(8), 1-10.
 
 <u>Kreyenmeier P.,</u> Kämmer L., Fooken, J., & Spering M. (2022).
 Humans can track but fail to predict accelerating targets. *eNeuro,
-9(5)*, 1-15. \[selected as a feature article]
+9(5)*, 1-15.\
+[selected as a feature article]
 
 Conci M., <u>Kreyenmeier P.,</u> Kröll L., Spiech C., & Müller H.J.
 (2021). The nationality benefit: long-term memory associations enhance
