@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 title: "About me"
 ---
 ![](assets/head2_square.jpg)
